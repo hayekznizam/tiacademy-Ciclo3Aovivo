@@ -1,0 +1,24 @@
+{
+  "name": "ciclo3",
+  "version": "1.0.0",
+  "description": "ciclo3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayekznizam/tiacademy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayekznizam/tiacademy/issues"
+  },
+  "homepage": "https://github.com/hayekznizam/tiacademy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.7.0"
+  }
+}
